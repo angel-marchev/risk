@@ -2,6 +2,8 @@ Top 10 Jumps
 
 [https://www\.youtube\.com/watch?v=qqhlfz9GQPE](https://www.youtube.com/watch?v=qqhlfz9GQPE)
 
+<iframe width="560" height="315" src="img\10Jumps.flv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Някои идеи за риска
 
 # доц. д-р Ангел Марчев
