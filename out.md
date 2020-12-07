@@ -2,7 +2,8 @@ Top 10 Jumps
 
 [https://www\.youtube\.com/watch?v=qqhlfz9GQPE](https://www.youtube.com/watch?v=qqhlfz9GQPE)
 
-<iframe width="560" height="315" src="img\10Jumps.flv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](img\10Jumps.flv)
+
 
 # Някои идеи за риска
 
