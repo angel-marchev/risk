@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Lecture](https://github.com/angel-marchev/risk/out.md)
+[Lecture](out.md)
 
 You can use the [editor on GitHub](https://github.com/angel-marchev/risk/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
