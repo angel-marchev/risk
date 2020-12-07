@@ -8,9 +8,13 @@ Top 10 Jumps
 
 Creative commons \- Angel Marchev\, Jr\.
 
-<img src="img\marchev_risk_all_20190.png" width=500px />
+# Въведение
 
 # 
+
+Creative commons \- Angel Marchev\, Jr\.
+
+<img src="img\marchev_risk_all_20190.png" width=500px />
 
 <img src="img\marchev_risk_all_20191.jpg" width=500px />
 
@@ -282,17 +286,9 @@ E\.g\. fixed\-return investmentvsstock investment
 
 Creative commons \- Angel Marchev\, Jr\.
 
-Класическа дефиниция:Рискът се свързва с факта\, че __реалните бъдещи резултати\, ще са различни от желаните бъдещи резултати\.__
-
-<img src="img\marchev_risk_all_201924.jpg" width=500px />
-
-# Математическо очакване
-
-Creative commons \- Angel Marchev\, Jr\.
-
 # Измерване на риска
 
-<img src="img\marchev_risk_all_201925.jpg" width=500px />
+<img src="img\marchev_risk_all_201924.jpg" width=500px />
 
 # Класически измерител на риска е дисперсията спрямо средната стойност
 
@@ -300,27 +296,27 @@ Creative commons \- Angel Marchev\, Jr\.
 
 От 80те насам фокусът е по\-скоро върху “Downside” \(Leftside\)риск–само негативните отклонения от очакванията
 
-<img src="img\marchev_risk_all_201926.png" width=500px />
+<img src="img\marchev_risk_all_201925.png" width=500px />
 
-<img src="img\marchev_risk_all_201927.png" width=500px />
+<img src="img\marchev_risk_all_201926.png" width=500px />
 
 Creative commons \- Angel Marchev\, Jr\.
 
 # Какво е РИСК?
 
-<img src="img\marchev_risk_all_201928.png" width=500px />
+<img src="img\marchev_risk_all_201927.png" width=500px />
 
 Value at Risk
 
 Creative commons \- Angel Marchev\, Jr\.
 
-<img src="img\marchev_risk_all_201929.png" width=500px />
+<img src="img\marchev_risk_all_201928.png" width=500px />
 
 Extreme events
 
-<img src="img\marchev_risk_all_201930.png" width=500px />
+<img src="img\marchev_risk_all_201929.png" width=500px />
 
-<img src="img\marchev_risk_all_201931.jpg" width=272px />
+<img src="img\marchev_risk_all_201930.jpg" width=272px />
 
 Creative commons \- Angel Marchev\, Jr\.
 
@@ -331,6 +327,14 @@ Creative commons \- Angel Marchev\, Jr\.
 Creative commons \- Angel Marchev\, Jr\.
 
 [https://phet\.colorado\.edu/sims/plinko\-probability/plinko\-probability\_en\.html](https://phet.colorado.edu/sims/plinko-probability/plinko-probability_en.html)
+
+Creative commons \- Angel Marchev\, Jr\.
+
+Класическа дефиниция:Рискът се свързва с факта\, че __реалните бъдещи резултати\, ще са различни от желаните бъдещи резултати\.__
+
+<img src="img\marchev_risk_all_201931.jpg" width=500px />
+
+# Математическо очакване
 
 Creative commons \- Angel Marchev\, Jr\.
 
@@ -508,24 +512,6 @@ Creative commons \- Angel Marchev\, Jr\.
 
 Creative commons \- Angel Marchev\, Jr\.
 
-<img src="img\marchev_risk_all_201947.jpg" width=151px />
-
-# Prospect theory
-
-* Индивидуалната склонност към риск е
-* Фундаментална концепция в икономическите
-* Науки\, особено при инвестиционния избор
-* “Рационален човек\, избягващ риска” е
-* водещата парадигма\.
-* До някъде противоречаща й парадигма е
-* “prospect theory”\,разработена отKahnemanиTversky
-  * Голям брой експерименти с индивидуалния избор
-  * ИЛИ същността на човек е ирационална/нерационална
-  * ИЛИ концепцията за рационално решение трябва да се развие и допълни
-* Трудното при промяна на парадигма в социалните науки е\, че не може да се приложи достатъчно изчерпателен и окончателен експеримент
-
-Creative commons \- Angel Marchev\, Jr\.
-
 # Пример за тестов въпрос за склонност за поемане на риск
 
 __Коя инвестиция бихте избрали?__
@@ -566,9 +552,9 @@ Risky circle: 50ml \(50%\) or 10 ml \(50%\)\.
 
 Monkeys preferred risky options\.
 
-<img src="img\marchev_risk_all_201948.jpg" width=500px />
+<img src="img\marchev_risk_all_201947.jpg" width=500px />
 
-<img src="img\marchev_risk_all_201949.jpg" width=300px />
+<img src="img\marchev_risk_all_201948.jpg" width=300px />
 
 \(Real\, 1995; McCoy & Platt\, 2005\)
 
@@ -582,6 +568,24 @@ A perfectly rational responder should accept any offer randomly \(as the payoff 
 
 In reality\, players systematically do not conform to these predictions\.
 
+<img src="img\marchev_risk_all_201949.jpg" width=151px />
+
+# Prospect theory
+
+* Индивидуалната склонност към риск е
+* Фундаментална концепция в икономическите
+* Науки\, особено при инвестиционния избор
+* “Рационален човек\, избягващ риска” е
+* водещата парадигма\.
+* До някъде противоречаща й парадигма е
+* “prospect theory”\,разработена отKahnemanиTversky
+  * Голям брой експерименти с индивидуалния избор
+  * ИЛИ същността на човек е ирационална/нерационална
+  * ИЛИ концепцията за рационално решение трябва да се развие и допълни
+* Трудното при промяна на парадигма в социалните науки е\, че не може да се приложи достатъчно изчерпателен и окончателен експеримент
+
+Creative commons \- Angel Marchev\, Jr\.
+
 __Subjective Value__
 
 __Subjective Value__
@@ -589,8 +593,6 @@ __Subjective Value__
 __Objective outcome__
 
 __Objective outcome__
-
-# Prospect Theory
 
 \(Kahneman & Tversky\, 1979\)
 
@@ -658,6 +660,18 @@ Creative commons \- Angel Marchev\, Jr\.
 
 Creative commons \- Angel Marchev\, Jr\.
 
+# Теории за решенията
+
+# доц. д-р Ангел Марчев
+
+Creative commons \- Angel Marchev\, Jr\.
+
+# Въведение
+
+# 
+
+Creative commons \- Angel Marchev\, Jr\.
+
 <span style="color:#FFFFFF">Decision\-Making Methods</span>
 
 <span style="color:#FFFFFF">Historical extrapolation</span>
@@ -691,6 +705,12 @@ _Feedback_  __\-__ Learn from\, and reflect on the decision making\. This step a
 Creative commons \- Angel Marchev\, Jr\.
 
 # Универсален модел на инвеститор
+
+# Разумно-нормативен подход
+
+# 
+
+Creative commons \- Angel Marchev\, Jr\.
 
 # Разумно-нормативен подход и теория на игрите
 
@@ -1518,7 +1538,15 @@ Creative commons \- Angel Marchev\, Jr\.
 
 # Управление на риска
 
+# доц. д-р Ангел Марчев
+
+Creative commons \- Angel Marchev\, Jr\.
+
+# Въведение
+
 # 
+
+Creative commons \- Angel Marchev\, Jr\.
 
 <img src="img\marchev_risk_all_201981.png" width=500px />
 
@@ -1687,6 +1715,10 @@ Money manage
 Stop loss / Take profit
 
 Hedge	           Individual preferences
+
+# Размер на позициите
+
+# 
 
 # Risk management tips in investment
 
