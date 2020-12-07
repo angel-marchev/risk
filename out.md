@@ -11,6 +11,11 @@ Creative commons \- Angel Marchev\, Jr\.
 # Въведение
 
 # 
+<object type="application/x-shockwave-flash" width="200" height="250" data="img\american-frd.swf"> 
+	<param name="movie" value="video.swf"> 
+	<param name="wmode" value="transparent"> 
+
+</object>
 
 <img src="img\american-frd.swf" />
 Creative commons \- Angel Marchev\, Jr\.
