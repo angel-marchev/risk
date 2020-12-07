@@ -2,6 +2,8 @@ Top 10 Jumps
 
 [https://www\.youtube\.com/watch?v=qqhlfz9GQPE](https://www.youtube.com/watch?v=qqhlfz9GQPE)
 
+<iframe width="560" height="315" src="img\10Jumps.flv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Някои идеи за риска
 
 # доц. д-р Ангел Марчев
@@ -11,7 +13,13 @@ Creative commons \- Angel Marchev\, Jr\.
 # Въведение
 
 # 
+<object type="application/x-shockwave-flash" width="200" height="250" data="img\american-frd.swf"> 
+	<param name="movie" value="video.swf"> 
+	<param name="wmode" value="transparent"> 
 
+</object>
+
+<img src="img\american-frd.swf" />
 Creative commons \- Angel Marchev\, Jr\.
 
 <img src="img\marchev_risk_all_20190.png" width=500px />
