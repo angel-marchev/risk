@@ -12,6 +12,7 @@ Creative commons \- Angel Marchev\, Jr\.
 
 # 
 
+<img src="img\american-frd.swf" />
 Creative commons \- Angel Marchev\, Jr\.
 
 <img src="img\marchev_risk_all_20190.png" width=500px />
