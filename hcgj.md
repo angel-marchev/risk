@@ -3,3 +3,5 @@
 Ако планирате да станете част от купона, сега е моментът да се регистрирате - [http://hardcoregamejam.com/event-registration/](http://hardcoregamejam.com/event-registration/)
 Jam On!
 [HardcoreGameJam.com](https://HardcoreGameJam.com)
+
+![](media/image1.jpeg)
