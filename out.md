@@ -14,9 +14,7 @@ Creative commons \- Angel Marchev\, Jr\.
 # Въведение
 
 # 
-<object type="application/x-shockwave-flash" width="200" height="250" data="img\american-frd.swf"> 
-	<param name="movie" value="video.swf"> 
-	<param name="wmode" value="transparent"> 
+<iframe src="https://basaga.org/basaga_files/ruffle/" width=550 height=550></iframe>
 
 </object>
 
