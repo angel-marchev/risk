@@ -16,9 +16,7 @@ Creative commons \- Angel Marchev\, Jr\.
 # 
 <iframe src="https://basaga.org/basaga_files/ruffle/" width=550 height=550></iframe>
 
-</object>
 
-<img src="img\american-frd.swf" />
 Creative commons \- Angel Marchev\, Jr\.
 
 <img src="img\marchev_risk_all_20190.png" width=500px />
