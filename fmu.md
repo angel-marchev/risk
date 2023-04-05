@@ -1,6 +1,8 @@
 VARIABLES IN THE MODEL
 
- 
+
+
+<iframe src="https://basaga.org/basaga_files/ruffle/" width=550 height=550></iframe>
 
 Only the variables essential for the purposes of the study participate in the model
 
