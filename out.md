@@ -4,6 +4,11 @@ Top 10 Jumps
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](img\10Jumps.flv)
 
+## YouTube Video Example
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qqhlfz9GQPE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 # Някои идеи за риска
 
