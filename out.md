@@ -2,7 +2,7 @@ Top 10 Jumps
 
 [https://www\.youtube\.com/watch?v=qqhlfz9GQPE](https://www.youtube.com/watch?v=qqhlfz9GQPE)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](img\10Jumps.flv)
+[![Watch the video]()](img\10Jumps.flv)
 
 ## YouTube Video Example
 
